@@ -1,2 +1,2 @@
 #!/bin/bash
-export 128=$TRUEKNOWLEDG
+export TRUEKNOWLEDGE=$128 | env
